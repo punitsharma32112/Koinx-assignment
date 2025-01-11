@@ -77,7 +77,7 @@ This repository contains the solution to the KoinX Frontend Intern Assignment. T
 
 For any inquiries or questions regarding this project, please contact:
 
-- Sahil Dahekar
-- [dahekar30sahil@gmail.com](dahekar30sahil@gmail.com)
-- [LinkedIn Profile](https://www.linkedin.com/in/sahil-dahekar/)
+- Punit Sharma
+- [punit9705@gmail.com](dahekar30sahil@gmail.com)
+- [LinkedIn Profile](https://www.linkedin.com/in/punit-sharma-554584268/)
 
